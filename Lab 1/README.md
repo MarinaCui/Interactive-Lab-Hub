@@ -131,7 +131,7 @@ A bedroom at night, as the user winds down for sleep.
 - **Device**: use light (dimming + warming) to support relaxation, provide unobtrusive feedback, and automatically power off once the user is asleep.  
 
 **Storyboard**  
-*[Storyboard](/Lamp%20Storyboard.jpg)*  
+*![Storyboard](/Lamp%20Storyboard.jpg)*  
 
 **Feedback**  
 I like how the brightness changes along with the user's activity. But how would you define the brightness for different settings? How does the light detect the user's activities — through motion capture or voice control?\*\*
