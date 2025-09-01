@@ -102,7 +102,7 @@ After the steak is placed, the device continues to monitor cooking, signaling wi
 
 Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch seven storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the interactive device and the other characters in the scene. 
 
-\*\***[Storyboard 1](/Storyboard1.jpeg)**\*\*
+\*\***![Storyboard 1](./Storyboard1.jpeg)**\*\*
 
 Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
 
@@ -131,7 +131,7 @@ A bedroom at night, as the user winds down for sleep.
 - **Device**: use light (dimming + warming) to support relaxation, provide unobtrusive feedback, and automatically power off once the user is asleep.  
 
 **Storyboard**  
-*![Storyboard](/Lamp%20Storyboard.jpg)*  
+*![Storyboard](./Lamp%20Storyboard.jpg)*  
 
 **Feedback**  
 I like how the brightness changes along with the user's activity. But how would you define the brightness for different settings? How does the light detect the user's activities — through motion capture or voice control?\*\*
@@ -179,14 +179,14 @@ If you run into technical issues with this tool, you can also use a light switch
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
 \*\***Include your first attempts at recording the set-up video here.**
-[Setup Video](/initialsetup.mp4)
+[Setup Video](./initialsetup.mp4)
 \*\*
 
 Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
 
 \*\***Show the follow-up work here.** 
 
-[Storyboard Updated](/Storyboard%20after%20update.jpeg)
+[Storyboard Updated](./Storyboard%20after%20update.jpeg)
 
 **Update to the paper prototype**  
 I added colors to the storyboard to show each state:  
@@ -207,9 +207,9 @@ Think about the setting of the device: is the environment a place where the devi
 
 \*\***Include sketches of what your devices might look like here.**
 
-[Sketch1](/Sketch1.png)
-[Sketch2](/Sketch2.png)
-[Sketch3](/Sketch3.jpeg) \*\*
+![Sketch1](./Sketch1.png)
+![Sketch2](./Sketch2.png)
+![Sketch3](./Sketch3.jpeg) \*\*
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**
 
@@ -230,15 +230,17 @@ Think about the setting of the device: is the environment a place where the devi
 
 \*\***Take a video of your prototyped interaction.**
 
-[Prototype interaction1](/prototypeinteraction1.mp4)
+[Prototype interaction1](https://drive.google.com/file/d/1tre7x_4sBOrJaDt7Dedb9JzvSQP8Z8of/view?usp=share_link)
 
-[Prototype interaction2](/prototypeinteraction2.mp4)
+[Prototype interaction2](https://drive.google.com/file/d/1U9Hh4Y8ercF1ofvi9ErE5pA6-52x-vew/view?usp=sharing)
 
-[Prototype interaction3](/prototypeinteraction3.mp4)\*\*
+[Prototype interaction3](https://drive.google.com/file/d/1xOXjGUthD1APAwE41RHo6jyIyoY3iPy3/view?usp=sharing)\*\*
 
 \*\***Please indicate who you collaborated with on this Lab.**
 
 We worked in a group including Hongyiming Cui (Marina), Xiang Chang, and Qingxuan Yan\*\*
+
+
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
 
 
